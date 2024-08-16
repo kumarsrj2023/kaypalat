@@ -1,15 +1,63 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
-    "sections": {
-      "template-homepage": {
-        "type": "template",
-        "blocks": {
-          "banner_section": {
-            "type": "banner_section"
+  "sections": {
+    "template": {
+      "type": "template-homepage",
+      "blocks": {
+        "banner_section_NNr8mC": {
+          "type": "banner_section",
+          "settings": {
           }
         },
-        "blocks_order": ["banner_section"]
+        "top_category_Wn9j6h": {
+          "type": "top_category",
+          "settings": {
+          }
+        },
+        "pillers_of_kayapalat_FRNA3c": {
+          "type": "pillers_of_kayapalat",
+          "settings": {
+          }
+        },
+        "best_sellers_bLXyVE": {
+          "type": "best_sellers",
+          "settings": {
+            "title": "Best Sellers",
+            "discription": "",
+            "featured_collection": "",
+            "item_per_page": 4
+          }
+        },
+        "beauty_care_QAf6FX": {
+          "type": "beauty_care",
+          "settings": {
+            "title": "Best Sellers",
+            "discription": "",
+            "featured_collection": "",
+            "item_per_page": 4
+          }
+        }
+      },
+      "block_order": [
+        "banner_section_NNr8mC",
+        "top_category_Wn9j6h",
+        "pillers_of_kayapalat_FRNA3c",
+        "best_sellers_bLXyVE",
+        "beauty_care_QAf6FX"
+      ],
+      "settings": {
       }
-    },
-    "order": ["template-homepage"]
-  }
-  
+    }
+  },
+  "order": [
+    "template"
+  ]
+}
