@@ -32,7 +32,7 @@
           "settings": {
             "title": "Best Sellers",
             "discription": "",
-            "featured_collection": "",
+            "featured_collection": "beauty-care",
             "item_per_page": 4
           }
         },
