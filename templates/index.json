@@ -39,9 +39,9 @@
         "beauty_care_QAf6FX": {
           "type": "beauty_care",
           "settings": {
-            "title": "Best Sellers",
+            "title": "Beauty Care",
             "discription": "",
-            "featured_collection": "",
+            "featured_collection": "beauty-care",
             "item_per_page": 4
           }
         }
